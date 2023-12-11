@@ -1,0 +1,170 @@
+name,base_symptoms,advance_symptoms,type
+viêm họng đỏ,"họng nổi hạch
+chảy nước mũi","sốt cao
+nghẹt mũi
+cổ họng có đốm trắng
+vòm họng có đốm đỏ
+amidan sưng đỏ, có mủ, có mảng trắng
+hốc miệng có mủ, có mảng trắng",hô hấp
+viêm họng do liên cầu khuẩn,"họng nổi hạch
+nôn","sốt cao
+hạch bạch hầu sưng
+cổ họng có đốm trắng
+vòm họng có đốm đỏ
+hạch bạch huyết ở cổ sưng và đau",hô hấp
+hen suyễn,"ho
+khó thở","thở khò khè, có tiếng rít
+tức ngực, nặng ngực
+khó ngủ",hô hấp
+viêm xoang,"họng nổi hạch
+chảy nước mũi
+nôn
+ho","sốt nhẹ
+nghẹt mũi
+nước mũi vàng hoặc xanh đặc và hôi
+ho nhiều về đêm
+mắt có quầng thâm
+phù nề quanh mắt",hô hấp
+viêm phế quản,"khó thở
+ho
+nôn","đau ngực
+đau rát cổ họng
+ho có đờm xanh hơi vàng
+sốt nhẹ
+da tím tái
+tim đập nhanh",hô hấp
+viêm thanh khí quản,ho,"sốt nhẹ
+sổ mũi
+khàn giọng
+phập phồng cánh mũi
+co lõm ngực",hô hấp
+suy hô hấp cấp,khó thở,"da tím tái
+tim đập nhanh
+liệt cơ gian sườn
+liệt màn hầu
+tràn khí màn phổi",hô hấp
+viêm phổi pneumonia,"ho
+khó thở","sốt cao
+khàn tiếng
+thở gấp
+đau ngực
+đau đầu
+đau cơ
+tiêu chảy",hô hấp
+viêm phổi,"ho
+nôn","sốt cao
+đau ngực
+môi tím
+thở gấp",hô hấp
+cúm,ho,"sốt cao
+đau nhức
+đau đầu
+nghẹt mũi
+viêm họng",hô hấp
+tiêu chảy cấp,nôn,"phân lỏng
+phân lẫn dịch nhày
+đại tiện nhiều lần
+kén ăn
+mệt lả
+sốt nhẹ",đường ruột
+tắc ruột,"đau bụng
+nôn","táo bón
+chướng bụng",đường ruột
+kết lị,đau bụng,"đại tiện nhiều lần
+phân lỏng
+phân lẫn dịch nhày
+phân lẫn máu
+sốt nhẹ
+tiêu chảy",đường ruột
+thương hàn,đau bụng,"sốt nhẹ
+ngực xuất hiện vết đốm hồng nhạt
+bựa lưỡi
+tiêu chảy
+đau đầu
+sút cân",đường ruột
+tả,nôn,"tiêu chảy
+phân nhạt màu
+phân có mùi tanh
+mắt trũng
+khát nước
+da khô",đường ruột
+rối loạn tiêu hoá,"nôn
+đau bụng","kén ăn
+chướng bụng
+khó tiêu
+tiêu chảy",đường ruột
+giun đũa,"nôn
+ho","kém phát triển tinh thần
+kém phát triển thể chất
+rối loạn tiêu hoá
+đau ngực",đường ruột
+giun kim,nôn,"rối loạn tiêu hóa
+ngứa hậu môn
+đi ngoài thất thường
+nghiến răng",đường ruột
+giun tóc,đau bụng,"mót rặn
+đi ngoài nhiều lần
+phân lẫn dịch nhày
+phân lẫn máu
+lòi rom",đường ruột
+Chàm đồng tiền,ngứa da,"mặt đóng vảy tròn và ngứa
+tay đóng vảy tròn và ngứa",da
+Chàm sữa,nổi mẩn,"má mẩn nhỏ ngứa
+tay mẩn nhỏ ngứa
+da khô căng",da
+Thủy đậu giai đoạn phát bệnh,"da có mụn nước
+nôn","sốt cao
+kén ăn
+da mụn nước ngứa
+đau đầu
+cơ đau
+miệng mụn nước rát",da
+Chốc,da có mụn nước,"da có bọng nước
+dịch nước vàng
+rát đỏ",da
+Mụn nhọt ngoài da,da có mụn mủ,"chân lông có bọng nước
+chân lông có mủ",da
+Ghẻ,"da có mụn nước
+ngứa da","nếp gấp da có mụn nước ngứa
+kén ăn",da
+Rôm sảy,"ngứa da
+da có mụn nước","da mụn ngứa
+đám mụn nước nhỏ",da
+Tay – Chân – Miệng (khởi phát),da có mụn nước,"sốt nhẹ
+kén ăn
+cơ thể uể oải
+tiêu chảy
+đau họng",da
+Tay – Chân – Miệng (toàn phát),"da có mụn nước
+nôn","sốt nhẹ
+kén ăn
+cơ thể uể oải
+miệng mụn nước
+lòng bàn tay mụn nước
+lòng bàn chân mụn nước",da
+Viêm da dị ứng,nổi mẩn,"da khô ngứa sần
+kén ăn
+cơ thể uể oải ",da
+Nổi mề đay,nổi mẩn,"sốt nhẹ
+da nổi nốt mẩn to",da
+Ung nhọt,da có mụn mủ,"sốt nhẹ
+cơ thể uể oải
+mụn mủ to vàng",da
+Lang ben,"da màu không đều
+ngứa da","da đổi màu ở ngực, cổ, cánh tay hoặc lưng",da
+Hắc lào,nổi mẩn,"da nốt mẩn tròn và ngứa
+nốt mẩn đậm gần tâm",da
+Bạch biến,da màu không đều,"tóc bạc
+môi mất màu",da
+Đậu mùa khỉ (khởi phát),nổi mẩn,"sốt cao
+cơ thể uể oải
+mặt nổi mẩn",da
+Đậu mùa khỉ (toàn phát),da có mụn mủ,"sốt nhẹ
+cơ thể uể oải",da
+zona thần kinh,"ngứa da
+da có mụn nước","sốt cao
+cơ thể uể oải
+nước tiểu vàng
+đau đầu",da
+"Nước ăn tay, chân",ngứa da,"kẽ tay nứt, ngứa, có mủ
+kẽ chân nứt, ngứa, có mủ",da
