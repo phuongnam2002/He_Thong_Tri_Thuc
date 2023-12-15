@@ -52,7 +52,7 @@ Question Schema
 -----------------------------------------
 1. Xac nhan
 3. Hoi trieu chung (base)
-    - lay cac trieu chung xuat hien nhieu o 4 loai benh
+    - lay cac trieu chung xuat hien nhieu o cac loai benh
 4. Hoi them cac trieu chung (advance)
     - lay cac trieu chung ma chi co duy nhat o mot so benh
 -----------------------------------------
